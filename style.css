@@ -38,3 +38,5 @@ html,body{width:100%;height:100%;margin:0;padding:0}body{gap:0;background:#142c2
 
 #game svg.ui-icon{width:16px!important;height:16px!important;vertical-align:-3px;stroke-width:1.7}#game .card>span:first-child svg.ui-icon{width:22px!important;height:22px!important}#game .cost svg.ui-icon,#game small svg.ui-icon{width:12px!important;height:12px!important;vertical-align:-2px}#game nav svg.ui-icon,#game .round svg.ui-icon{width:18px!important;height:18px!important}
 
+
+.tutorial-link{display:block;text-align:center;text-decoration:none;line-height:1.5;margin:12px 0}
